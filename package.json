@@ -1,6 +1,6 @@
 {
   "name": "scloud-zuul",
-  "version": "1.10.8",
+  "version": "1.12.7",
   "description": "",
   "main": "index.js",
   "scripts": {

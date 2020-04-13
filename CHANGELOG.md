@@ -1,3 +1,12 @@
+## [1.12.7](https://github.com/jason-live/scloud-zuul/compare/v1.10.8...v1.12.7) (2020-04-13)
+
+
+### Features
+
+* :sparkles: 容器部署项目 ([1e6975e](https://github.com/jason-live/scloud-zuul/commit/1e6975ee52bba2c41848d7184e870248d45c5ba7))
+
+
+
 ## [1.10.8](https://github.com/jason-live/scloud-zuul/compare/v1.9.9...v1.10.8) (2020-04-09)
 
 
